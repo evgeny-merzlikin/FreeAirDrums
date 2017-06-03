@@ -1,0 +1,6 @@
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "PS3EYEDriver"]
+	path = PS3EYEDriver
+	url = https://github.com/evgeny-merzlikin/PS3EYEDriver.git
