@@ -4,3 +4,6 @@
 [submodule "PS3EYEDriver"]
 	path = PS3EYEDriver
 	url = https://github.com/evgeny-merzlikin/PS3EYEDriver.git
+[submodule "glfw"]
+	path = glfw
+	url = https://github.com/glfw/glfw.git
