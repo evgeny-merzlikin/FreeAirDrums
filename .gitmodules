@@ -7,3 +7,6 @@
 [submodule "glfw"]
 	path = glfw
 	url = https://github.com/glfw/glfw.git
+[submodule "opencv"]
+	path = opencv
+	url = https://github.com/opencv/opencv.git
